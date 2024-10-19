@@ -54,7 +54,7 @@ Antes de ejecutar este proyecto, asegúrate de tener lo siguiente instalado en t
 
 3. Ejecuta el archivo `TestB.js` utilizando Node.js:
     ```bash
-    node TestB.js | node TestB.js
+    node TestB.js | node TestA.js
     ```
 
 Esto generará una salida en la terminal que mostrará el total facturado en efectivo y con tarjeta de crédito para el cliente de prueba.
